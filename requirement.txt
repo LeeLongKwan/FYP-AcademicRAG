@@ -1,0 +1,10 @@
+torch>=2.1
+transformers>=4.36
+accelerate
+sentence-transformers
+faiss
+pymupdf
+pytesseract
+Pillow
+tqdm
+gradio
